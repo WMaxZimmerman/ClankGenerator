@@ -1,0 +1,9 @@
+C:\git\ClankGenerator\src\ClankGenerator.Shared\bin\Debug\netstandard2.0\ClankGenerator.Shared.deps.json
+C:\git\ClankGenerator\src\ClankGenerator.Shared\bin\Debug\netstandard2.0\ClankGenerator.Shared.dll
+C:\git\ClankGenerator\src\ClankGenerator.Shared\bin\Debug\netstandard2.0\ClankGenerator.Shared.pdb
+C:\git\ClankGenerator\src\ClankGenerator.Shared\obj\Debug\netstandard2.0\ClankGenerator.Shared.csprojAssemblyReference.cache
+C:\git\ClankGenerator\src\ClankGenerator.Shared\obj\Debug\netstandard2.0\ClankGenerator.Shared.csproj.CoreCompileInputs.cache
+C:\git\ClankGenerator\src\ClankGenerator.Shared\obj\Debug\netstandard2.0\ClankGenerator.Shared.AssemblyInfoInputs.cache
+C:\git\ClankGenerator\src\ClankGenerator.Shared\obj\Debug\netstandard2.0\ClankGenerator.Shared.AssemblyInfo.cs
+C:\git\ClankGenerator\src\ClankGenerator.Shared\obj\Debug\netstandard2.0\ClankGenerator.Shared.dll
+C:\git\ClankGenerator\src\ClankGenerator.Shared\obj\Debug\netstandard2.0\ClankGenerator.Shared.pdb

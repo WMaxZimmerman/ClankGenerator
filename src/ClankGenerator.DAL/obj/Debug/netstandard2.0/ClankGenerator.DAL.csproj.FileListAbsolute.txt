@@ -1,0 +1,12 @@
+C:\git\ClankGenerator\src\ClankGenerator.DAL\bin\Debug\netstandard2.0\ClankGenerator.DAL.deps.json
+C:\git\ClankGenerator\src\ClankGenerator.DAL\bin\Debug\netstandard2.0\ClankGenerator.DAL.dll
+C:\git\ClankGenerator\src\ClankGenerator.DAL\bin\Debug\netstandard2.0\ClankGenerator.DAL.pdb
+C:\git\ClankGenerator\src\ClankGenerator.DAL\bin\Debug\netstandard2.0\ClankGenerator.Shared.dll
+C:\git\ClankGenerator\src\ClankGenerator.DAL\bin\Debug\netstandard2.0\ClankGenerator.Shared.pdb
+C:\git\ClankGenerator\src\ClankGenerator.DAL\obj\Debug\netstandard2.0\ClankGenerator.DAL.csprojAssemblyReference.cache
+C:\git\ClankGenerator\src\ClankGenerator.DAL\obj\Debug\netstandard2.0\ClankGenerator.DAL.csproj.CoreCompileInputs.cache
+C:\git\ClankGenerator\src\ClankGenerator.DAL\obj\Debug\netstandard2.0\ClankGenerator.DAL.AssemblyInfoInputs.cache
+C:\git\ClankGenerator\src\ClankGenerator.DAL\obj\Debug\netstandard2.0\ClankGenerator.DAL.AssemblyInfo.cs
+C:\git\ClankGenerator\src\ClankGenerator.DAL\obj\Debug\netstandard2.0\ClankGenerator.DAL.csproj.CopyComplete
+C:\git\ClankGenerator\src\ClankGenerator.DAL\obj\Debug\netstandard2.0\ClankGenerator.DAL.dll
+C:\git\ClankGenerator\src\ClankGenerator.DAL\obj\Debug\netstandard2.0\ClankGenerator.DAL.pdb

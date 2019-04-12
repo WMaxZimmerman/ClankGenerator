@@ -1,0 +1,14 @@
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\bin\Debug\netstandard2.0\ClankGenerator.ApplicationCore.deps.json
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\bin\Debug\netstandard2.0\ClankGenerator.ApplicationCore.dll
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\bin\Debug\netstandard2.0\ClankGenerator.ApplicationCore.pdb
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\bin\Debug\netstandard2.0\ClankGenerator.DAL.dll
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\bin\Debug\netstandard2.0\ClankGenerator.Shared.dll
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\bin\Debug\netstandard2.0\ClankGenerator.Shared.pdb
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\bin\Debug\netstandard2.0\ClankGenerator.DAL.pdb
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\obj\Debug\netstandard2.0\ClankGenerator.ApplicationCore.csprojAssemblyReference.cache
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\obj\Debug\netstandard2.0\ClankGenerator.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\obj\Debug\netstandard2.0\ClankGenerator.ApplicationCore.AssemblyInfoInputs.cache
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\obj\Debug\netstandard2.0\ClankGenerator.ApplicationCore.AssemblyInfo.cs
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\obj\Debug\netstandard2.0\ClankGenerator.ApplicationCore.csproj.CopyComplete
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\obj\Debug\netstandard2.0\ClankGenerator.ApplicationCore.dll
+C:\git\ClankGenerator\src\ClankGenerator.ApplicationCore\obj\Debug\netstandard2.0\ClankGenerator.ApplicationCore.pdb
