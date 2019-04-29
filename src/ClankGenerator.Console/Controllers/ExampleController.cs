@@ -16,5 +16,13 @@ namespace ClankGenerator.Console.Controllers
 		System.Console.WriteLine(line);
 	    }
         }
+
+        [CliCommand("new", "A Hello World for a CLI Project")]
+        public void GenerateNewBoard()
+        {
+	    var board = ExampleService.CreateBoard();
+
+	    System.Console.WriteLine(board);
+        }
     }
 }

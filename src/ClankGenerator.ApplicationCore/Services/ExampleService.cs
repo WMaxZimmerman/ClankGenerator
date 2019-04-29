@@ -1,11 +1,19 @@
 using System;
 using System.Collections.Generic;
 using ClankGenerator.DAL.Repositories;
+using ClankGenerator.Shared.Models;
 
 namespace ClankGenerator.ApplicationCore.Services
 {
     public class ExampleService
     {
+	public static GameBoard CreateBoard()
+	{
+	    var board = new GameBoard();
+
+	    return board;
+	}
+	
         public static List<string> HelloWorld()
         {
 	    var output = new List<string>();
